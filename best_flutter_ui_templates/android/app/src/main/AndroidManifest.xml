@@ -1,9 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <uses-permission android:name="android.permission.INTERNET"/>
-
     <application
-        android:label="Best Flutter UI Templates"
+        android:label="best_flutter_ui_templates"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
